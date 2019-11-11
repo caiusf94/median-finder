@@ -27,7 +27,7 @@ I used IntelliJ to develop this program. For this IDE, go to `Main` class. On th
 
 ## Tests
 
-In order to run the unit tests, make sure the project is built. Then open a terminal in `median-finder` folder and run `mvn clean test`.
+In order to run the unit tests, make sure the project is built. Then open a terminal in `median-finder` folder and run `mvn clean test`. Using **JUnit 4** for unit tests.
 
 ## Technical aspects
 
