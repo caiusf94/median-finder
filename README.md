@@ -1,5 +1,5 @@
 # Median finder
-Java program for finding the median value from a file with one number per line.
+Java program for finding the median value from a file with one number per line. Project created using JDK 10 and Maven.
 
 ## How to build
 This project is intended to be built using Maven. Make sure you have [Maven installed](https://maven.apache.org). 
